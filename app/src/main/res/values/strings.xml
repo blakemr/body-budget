@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Body Budget</string>
+    <string name="calorie_entry">Log calories</string>
+    <string name="button_log">Log</string>
 </resources>
