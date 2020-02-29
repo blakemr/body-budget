@@ -30,9 +30,9 @@
         android:layout_marginTop="16dp"
         android:ems="10"
         android:inputType="number"
-        android:text="@string/calorie_entry"
         app:layout_constraintEnd_toStartOf="@+id/logButton"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="@string/calorie_entry" />
 </androidx.constraintlayout.widget.ConstraintLayout>
